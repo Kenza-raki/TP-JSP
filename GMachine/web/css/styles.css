@@ -1,0 +1,12 @@
+fieldset{
+    
+    font-family: monospace;
+    font-size: 20px;
+    width: 500px;
+    margin: auto;
+    background-color: aqua;
+}
+input{
+    border-radius: 6px;
+}
+
