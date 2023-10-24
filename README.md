@@ -21,10 +21,15 @@ Supprimer une machine: Vous pouvez effacer une machine déjà présente en utili
 <img width="469" alt="image" src="https://github.com/Kenza-raki/TP-JSP/assets/116951093/c5ee5d00-16dd-46e8-8d49-dfefb692dcc2">
 
 
-<img width="441" alt="image" src="https://github.com/Kenza-raki/TP-JSP/assets/116951093/e47d5229-dd37-4ff9-bdcf-13a186826fad">
+<img width="634" alt="image" src="https://github.com/Kenza-raki/TP-JSP/assets/116951093/b3bc79d8-6490-4780-8ecb-6995ad227d2a">
 
 
-<img width="325" alt="image" src="https://github.com/Kenza-raki/TP-JSP/assets/116951093/5c27dcd3-6e0c-43b7-8960-4369cea8d199">
+<img width="401" alt="image" src="https://github.com/Kenza-raki/TP-JSP/assets/116951093/61aecf3f-f109-48f4-8db4-94786dbebf6e">
+
+
+
+
+
 
 
 
